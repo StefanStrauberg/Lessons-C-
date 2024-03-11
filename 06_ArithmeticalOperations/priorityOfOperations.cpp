@@ -8,6 +8,6 @@ int main()
     std::cout << "a is: " << a << std::endl;
     std::cout << "b is: " << b << std::endl;
     std::cout << "Priority: increment, decriment, mul, div, remainder, sum, diff" << std::endl;
-    std::cout << "a + 8 * ++b" << result << std::endl;
+    std::cout << "a + 8 * ++b = " << result << std::endl;
     return 0;
 }
