@@ -22,7 +22,7 @@ int main()
 
 
     int a4 {8};
-    int b4 {a1--};
+    int b4 {a4--};
     std::cout << "Postfix decriment" << std::endl;
     std::cout << "a4 = " << a4 << std::endl;
     std::cout << "b4 = " << b4 << std::endl;
