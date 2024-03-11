@@ -350,5 +350,6 @@ MigrationBackup/
 
 # Executable files
 *
-!*.*
+*.exe
+!*.cpp
 !*/
