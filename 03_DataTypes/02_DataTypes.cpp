@@ -7,12 +7,12 @@ int main()
     unsigned char _unsignedChar{64};
     short _short{-88};
     unsigned short _unsignedShort{88};
-    int _int{-1024};
-    unsigned int _unsigendInt{1024};
-    long _long{-2048};
-    unsigned long _unsignedLong{2048};
-    long long _longLong{-4096};
-    unsigned long long _unsignedLongLong{4096};
+    int _int{-1'024};
+    unsigned int _unsigendInt{1'024U};
+    long _long{-2'048L};
+    unsigned long _unsignedLong{2'048UL};
+    long long _longLong{-4'096LL};
+    unsigned long long _unsignedLongLong{4'096ULL};
     std::cout << "Signed Char = " << _signedChar << std::endl;
     std::cout << "Char = " << _char << std::endl;
     std::cout << "Unsigned Char = " << _unsignedChar << std::endl;
