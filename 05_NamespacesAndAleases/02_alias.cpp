@@ -3,7 +3,7 @@
 using std::cout;
 using std::endl;
 
-using ullong = unsigned long long; // the same as below 
+using ullong = unsigned long long; // the same as below
 typedef unsigned int ulint;
 
 int main()

@@ -5,7 +5,7 @@ int main()
     int age;
     double weight;
 
-    std::cout << "Enter your age: "; 
+    std::cout << "Enter your age: ";
     std::cin >> age;
     std::cout << "Enter your wight: ";
     std::cin >> weight;

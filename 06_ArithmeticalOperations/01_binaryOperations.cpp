@@ -15,9 +15,9 @@ int main()
     std::cout << "Sum of 10 and 7 is: " << sum << std::endl;
     std::cout << "Diff of 10 and 7 is: " << diff << std::endl;
     std::cout << "Mul of 10 and 7 is: " << mul << std::endl;
-    std::cout << "Div of 10 and 7 is: " << divInt  << " as integer" << std::endl;
-    std::cout << "Div of 10 and 7 is: " << divFloat  << " as float" << std::endl;
-    std::cout << "Div of 10 and 7 is: " << divDouble  << " as double" << std::endl;
+    std::cout << "Div of 10 and 7 is: " << divInt << " as integer" << std::endl;
+    std::cout << "Div of 10 and 7 is: " << divFloat << " as float" << std::endl;
+    std::cout << "Div of 10 and 7 is: " << divDouble << " as double" << std::endl;
 
     return 0;
 }
