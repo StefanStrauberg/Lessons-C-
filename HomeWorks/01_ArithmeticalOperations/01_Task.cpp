@@ -4,7 +4,7 @@ int main()
 {
     signed int distance{};
 
-    std::cout << "-= Program is convert from meters to kilometers =-" << std::endl;
+    std::cout << "-= Program is converting from meters to kilometers =-" << std::endl;
     std::cout << "Enter number of meters: ";
     std::cin >> distance;
 
